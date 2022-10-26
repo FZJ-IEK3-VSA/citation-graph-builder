@@ -1,0 +1,12 @@
+*.xlsx
+prepared_library.json
+graph/*
+files/*
+pdf-files/*
+tei-files/*
+pdf-files/*
+temp_trash/*
+__pycache__/*
+.vscode/*
+grobid_client_python
+src/utils/__pycache__/*
